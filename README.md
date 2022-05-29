@@ -2,6 +2,7 @@
 🌱 I’m currently learning machine learning
 
 🔭 I’m currently working on unsupervised machine learning utilizing clustering algorithms
+
 🤔 I’m looking for help with securing a data analyst role
 
 
