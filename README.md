@@ -1,8 +1,6 @@
 # Hi there  
 
 
-
- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> 
  
  ## About Me
 
@@ -63,4 +61,4 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-blenrietti@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:blenrietti@gmail.com)](mailto:blenrietti@gmail.com)
 
-![Profile views](https://gpvc.arturio.dev/benrietti) 
+![Profile views](https://gpvc.arturio.dev/benrietti)  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> 
