@@ -2,7 +2,7 @@
 
 
 
-About Me
+## About Me
 
 👨🏽‍💻 I’m currently exploring Python with a big interest in Machine Learning and Data Visualization
 
@@ -23,7 +23,7 @@ About Me
 - Machine Learning
 - Deep Learning
 
-### Languages and Tools
+## Languages and Tools
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -55,7 +55,7 @@ About Me
 
 
 
-# Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+## Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
 
 [![](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1EId4go5ahzE07?si=a23294871eb3464d) [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brandi-enrietti/)
