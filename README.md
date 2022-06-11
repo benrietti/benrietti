@@ -13,7 +13,7 @@
 
 
 
-
+[![](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7KmIUNWrK8wEHfQcQfFrQ1?si=0e2d44043b5a40a4)
 
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=motivational)
