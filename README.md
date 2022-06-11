@@ -8,7 +8,7 @@
 🤔 I’m looking for help with securing a senior data analyst role
 
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in)
 
 **benrietti/benrietti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
