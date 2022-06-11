@@ -10,7 +10,7 @@
 
 <p align=”center”>
 
-<img width=”200" height=”200" src=”https://user-images.githubusercontent.com/104955297/173167241-7119860b-2b07-43e6-bce9-ef1b87341e6e.png" alt=”my banner”>
+<img width=”200" height=”200" src=”https://github.com/benrietti/benrietti/issues/2#issue-1268127302" alt=”my banner”>
 
 
 
