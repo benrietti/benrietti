@@ -1,5 +1,6 @@
 ### Hi there  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" />
 
+About Me
 
 👨🏽‍💻 I’m currently exploring Python with a big interest in Machine Learning and Data Visualization
 
@@ -7,7 +8,9 @@
 
 💼 I recently graduated with a Master of Science degree in Data Analytics
 
-<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/open_source.png" height="30px" /> I’m looking to collaborate on any open source project
+👯 I’m looking to collaborate on any open source project
+
+
 
 
 ## Technologies :fire:
@@ -60,3 +63,5 @@
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=motivational)
 
 
+ ### Profile Views :<br>
+  <img src="https://profile-counter.glitch.me/benrietti/count.svg" />
