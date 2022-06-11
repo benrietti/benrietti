@@ -8,5 +8,5 @@
 🤔 I’m looking for help with securing a senior data analyst role
 
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=light&animation=grow_out_in)
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=motivational)
