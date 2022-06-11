@@ -10,6 +10,8 @@
 
 💼 I recently graduated with a Master of Science, Data Analytics
 
+💼 Bachelor of Science, Business Management, 2020
+
 👯 I’m looking to collaborate on any open source project
 
 
