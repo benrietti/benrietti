@@ -1,5 +1,10 @@
 ### Hi there  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" />
 
+<p align="center">
+  <img src="https://github.com/benrietti/benrietti/issues/2#issue-1268127302" width="100%" title="Intro Card" alt="Intro Card">
+</p>
+
+
 About Me
 
 👨🏽‍💻 I’m currently exploring Python with a big interest in Machine Learning and Data Visualization
