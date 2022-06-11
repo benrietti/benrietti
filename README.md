@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" />
+
 
 👨🏽‍💻 I’m currently exploring Python with a big interest in Machine Learning and Data Visualization
 
@@ -6,7 +7,6 @@
 
 💼 I recently graduated with a Master of Science degree in Data Analytics
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" />
 
 ## Technologies :fire:
 - Data Analysis 
