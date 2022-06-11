@@ -7,7 +7,13 @@
 💼 I recently graduated with a Master of Science degree in Data Analytics
 
 
-
+## Technologies :fire:
+- Data Analysis 
+- Data Science
+- Python
+- Competitive Programming
+- Machine Learning
+- Deep Learning
 
 ### Languages and Tools
 
