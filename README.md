@@ -8,12 +8,8 @@
 🤔 I’m looking for help with securing a senior data analyst role
 
 
-<p>{office_quote}</p>
+![Quote](https://github-readme-quotes.herokuapp.com/quote)
 
-<p>{office_character}</p>
-
-Check back at the top of the hour for a new quote!
-<!--
 **benrietti/benrietti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
