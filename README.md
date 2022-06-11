@@ -1,8 +1,5 @@
 ### Hi there  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" />
 
-<p align="center">
-  <img src="https://github.com/benrietti/benrietti/issues/2#issue-1268127302" width="100%" title="Intro Card" alt="Intro Card">
-</p>
 
 
 About Me
@@ -68,5 +65,5 @@ About Me
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=motivational)
 
 
- ### Profile Views :<br>
-  <img src="https://profile-counter.glitch.me/benrietti/count.svg" />
+
+![Profile views](https://gpvc.arturio.dev/Souravdey777) 
