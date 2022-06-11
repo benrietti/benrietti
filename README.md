@@ -48,7 +48,7 @@
 
 
 
-## Music Heals
+## Music/Philosophy
 
 [![](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0LL1o9zWGGt7CC53ljYVKe?si=f12241d2b82d4358) 
 
