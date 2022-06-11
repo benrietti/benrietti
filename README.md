@@ -4,7 +4,7 @@
 
  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> 
  
- ##About Me
+ ## About Me
 
 👨🏽‍💻 I’m currently exploring Python with a big interest in Machine Learning and Data Visualization
 
