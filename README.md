@@ -7,6 +7,9 @@
 
 💼 I recently graduated with a Master of Science degree in Data Analytics
 
+I’m looking to collaborate on ...
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/open_source.png" height="30px" /> any open source project
+
 
 ## Technologies :fire:
 - Data Analysis 
