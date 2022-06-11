@@ -6,7 +6,7 @@ About Me
 
 🔭 I’m currently working on unsupervised machine learning utilizing clustering algorithms
 
-💼 I recently graduated with a Master of Science degree in Data Analytics
+💼 I recently graduated with a Master of Science, Data Analytics
 
 👯 I’m looking to collaborate on any open source project
 
