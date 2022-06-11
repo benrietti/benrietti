@@ -8,7 +8,7 @@
 🤔 I’m looking for help with securing a senior data analyst role
 
 
-
+https://github.com/benrietti/benrietti/issues/1#issue-1268125355
 
 
 
