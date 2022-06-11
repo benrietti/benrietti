@@ -58,7 +58,6 @@
 
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brandi-enrietti/)
-
 [![Gmail Badge](https://img.shields.io/badge/-blenrietti@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:blenrietti@gmail.com)](mailto:blenrietti@gmail.com)
 
  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> ![Profile views](https://gpvc.arturio.dev/benrietti) 
