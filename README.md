@@ -7,6 +7,13 @@
 
 🤔 I’m looking for help with securing a senior data analyst role
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand"/>
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=light&animation=grow_out_in)
+
+
+
+
+
+
+
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=motivational)
