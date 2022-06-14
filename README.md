@@ -4,9 +4,9 @@
  
  ## About Me
 
-💻 I’m currently exploring Python with a big interest in Machine Learning and Data Visualization
+🔭 I’m currently exploring Python with a big interest in Machine Learning and Data Visualization
 
-🔭 I’m currently working on unsupervised machine learning utilizing clustering algorithms
+💻 I’m currently working on unsupervised machine learning utilizing clustering algorithms
 
 💼 I recently graduated with a Master of Science, Data Analytics
 
