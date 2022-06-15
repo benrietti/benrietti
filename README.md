@@ -10,7 +10,7 @@
 
 💼 I recently graduated with a Master of Science, Data Analytics
 
-👯 I’m looking to collaborate on any open source project
+👯 I’m looking to collaborate on machine learning projects
 
 
 
