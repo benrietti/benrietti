@@ -15,13 +15,15 @@
 
 
 
-## Technologies :fire:
-- Data Analysis 
-- Data Science
-- Python
-- Competitive Programming
-- Machine Learning
-- Deep Learning
+## Experience :fire:
+Strong working knowledge of SQL, including techniques for writing efficient code over large datasets
+Applying statistics and data science tools on large datasets
+Advanced statistical data modeling techniques and tools knowledge
+Develop, validate, and compare Clinical Prediction Models
+Able to explain Prediction Models behavior and results in an understandable way
+Advance knowledge of statistical modeling techniques: GLM multiple regression, logistic regression, log-linear regression, variable selection, etc.
+Strong Python development experience
+Aggregate and blend data from different data sources
 
 ## Languages and Tools
 
