@@ -27,7 +27,7 @@
 
 •	Able to explain Prediction Models behavior and results in an understandable way
 
-•	Advance knowledge of statistical modeling techniques: GLM multiple regression, logistic regression, log-linear regression, variable selection, etc.
+•	Advanced knowledge of statistical modeling techniques: GLM multiple regression, logistic regression, log-linear regression, variable selection, etc.
 
 •	Strong Python development experience
 
