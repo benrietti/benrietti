@@ -16,21 +16,22 @@
 
 
 ## Experience :fire:
-Strong working knowledge of SQL, including techniques for writing efficient code over large datasets
 
-Applying statistics and data science tools on large datasets
+•	Strong working knowledge of SQL, including techniques for writing efficient code over large datasets
 
-Advanced statistical data modeling techniques and tools knowledge
+•	Applying statistics and data science tools on large datasets
 
-Develop, validate, and compare Clinical Prediction Models
+•	Advanced statistical data modeling techniques and tools knowledge
 
-Able to explain Prediction Models behavior and results in an understandable way
+•	Develop, validate, and compare Clinical Prediction Models
 
-Advance knowledge of statistical modeling techniques: GLM multiple regression, logistic regression, log-linear regression, variable selection, etc.
+•	Able to explain Prediction Models behavior and results in an understandable way
 
-Strong Python development experience
+•	Advance knowledge of statistical modeling techniques: GLM multiple regression, logistic regression, log-linear regression, variable selection, etc.
 
-Aggregate and blend data from different data sources
+•	Strong Python development experience
+
+•	Aggregate and blend data from different data sources
 
 ## Languages and Tools
 
