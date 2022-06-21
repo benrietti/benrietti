@@ -31,7 +31,7 @@
 
 •	Strong Python development experience
 
-•	Aggregate and blend data from different data sources
+•	Ability to aggregate and blend data from different data sources
 
 ## Languages and Tools
 
