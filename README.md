@@ -61,8 +61,9 @@
 "First solve the problem. Then write the code",
         Author: John Johnson
         
-        "author": "Anatole France",
-    "text": "To accomplish great things, we must not only act, but also dream; not only plan, but also believe."
+        
+ "To accomplish great things, we must not only act, but also dream; not only plan, but also believe."
+       Author: Anatole France
 
 # Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
