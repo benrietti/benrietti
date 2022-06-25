@@ -10,8 +10,6 @@
 
 💼 I recently graduated with a Master of Science, Data Analytics
 
-👯 I’m looking to collaborate on machine learning projects
-
 
 
 
@@ -22,8 +20,6 @@
 •	Applying statistics and data science tools on large datasets
 
 •	Advanced statistical data modeling techniques and tools knowledge
-
-•	Develop, validate, and compare Clinical Prediction Models
 
 •	Able to explain Prediction Models behavior and results in an understandable way
 
