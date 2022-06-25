@@ -72,3 +72,5 @@
 [![Gmail Badge](https://img.shields.io/badge/-blenrietti@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:blenrietti@gmail.com)](mailto:blenrietti@gmail.com)
 
  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> ![Profile views](https://gpvc.arturio.dev/benrietti) 
+
+![Benrietti's GitHub stats](https://github-readme-stats.vercel.app/api?username=benrietti&theme=dark&show_icons=true)
