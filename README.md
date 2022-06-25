@@ -58,7 +58,7 @@
 
 [![](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0LL1o9zWGGt7CC53ljYVKe?si=f12241d2b82d4358) 
 
-"First solve the problem. Then write the code",
+"First solve the problem. Then write the code."
         Author: John Johnson
         
         
