@@ -58,9 +58,7 @@
 
 [![](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0LL1o9zWGGt7CC53ljYVKe?si=f12241d2b82d4358) 
 
-"First solve the problem. Then write the code."
-        Author: John Johnson
-        
+      
         
  "To accomplish great things, we must not only act, but also dream; not only plan, but also believe."
        Author: Anatole France
@@ -73,4 +71,4 @@
 
  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> ![Profile views](https://gpvc.arturio.dev/benrietti) 
 
-![Benrietti's GitHub stats](https://github-readme-stats.vercel.app/api?username=benrietti&theme=dark&show_icons=true)
+
