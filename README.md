@@ -17,7 +17,7 @@
 
 •	Strong working knowledge of SQL, including techniques for writing efficient code over large datasets
 
-•	Applying statistics and data science tools on large datasets
+•	Advanced knowledge of applying statistics and data science tools on large datasets
 
 •	Advanced statistical data modeling techniques and tools knowledge
 
