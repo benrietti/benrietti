@@ -4,7 +4,7 @@
  
  ## About Me
 
-🔭 I’m currently exploring Python with a big interest in Machine Learning
+🔭 I’m currently exploring Python with a big interest in Machine Learning and Cloud Computing. 
 
 💻 I’m currently working on unsupervised machine learning utilizing clustering algorithms
 
