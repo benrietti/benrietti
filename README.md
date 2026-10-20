@@ -1,8 +1,5 @@
 I am a Healthcare data and analytics leader with nearly a decade at a national health system, partnering with quality, medical, revenue, and finance leaders. I have roots in clinical research, revenue/finance, and operations. I love turning clinical, financial, and operational healthcare data into trusted data products and decisions.
 
-## Connect
-[LinkedIn](https://www.linkedin.com/in/brandi-enrietti/) • [Email](mailto:blenrietti@gmail.com)
-
 ## Enterprise Work (CommonSpirit Health)
 
 * **Clinical Effectiveness (2024–Present):** Roadmap for 25+ analytical products a year; GCP pipelines in BigQuery, Airflow, and Python that cut manual processing time by 25%; data integrity for the OPPE platform behind 1,000 provider evaluations.
