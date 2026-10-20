@@ -1,9 +1,9 @@
 # Brandi Enrietti
 **Turning clinical, financial, and operational healthcare data into trusted data products and decisions.**
+Healthcare data and analytics leader with nearly a decade at a national health system, partnering with quality, medical, revenue, and finance leaders. Roots in clinical research operations, six Epic data model certifications, and hands-on cloud data engineering on GCP.
+
 ## Connect
 [LinkedIn](https://www.linkedin.com/in/brandi-enrietti/) • [Email](mailto:blenrietti@gmail.com)
-
-Healthcare data and analytics leader with nearly a decade at a national health system, partnering with quality, medical, revenue, and finance leaders. Roots in clinical research operations, six Epic data model certifications, and hands-on cloud data engineering on GCP.
 
 ## Enterprise Work (CommonSpirit Health)
 
