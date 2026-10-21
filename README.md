@@ -9,7 +9,7 @@ I am a Healthcare data and analytics leader with nearly a decade at a national h
 
 ## Healthcare Intelligence Platform (Synthetic Data)
 
-An end-to-end platform built on synthetic data, from raw clinical, operational, and claims events through a dbt-tested BigQuery warehouse to leakage-aware models and a Power BI hub. No patient or employer data is used. [View the repository](https://github.com/benrietti/Healthcare-Intelligence-Platform).
+A synthetic-data healthcare platform with source code for generation, cloud infrastructure, warehouse transformations, machine learning, and Power BI. See the repository’s build status for implemented components and verified execution results. [View the repository](https://github.com/benrietti/Healthcare-Intelligence-Platform).
 
 ## Healthcare Machine Learning Projects
 
