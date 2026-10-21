@@ -2,16 +2,16 @@ I am a Healthcare data and analytics leader with nearly a decade at a national h
 
 ## Enterprise Work (CommonSpirit Health)
 
-* **Clinical Effectiveness (2024–Present):** Roadmap for 25+ analytical products a year; GCP pipelines in BigQuery, Airflow, and Python that cut manual processing time by 25%; data integrity for the OPPE platform behind 1,000 provider evaluations.
+* **Clinical Effectiveness (2024–Present):** Roadmap for 25+ analytical products a year; GCP pipelines in BigQuery, Airflow, and Python that cut manual processing time by 25%; Accountable for data integrity and reliability of the OPPE platform supporting monthly provider evaluations.
 * **Revenue Management & Payer Strategy (2022–2023):** Governed data architecture for 10+ TB of financial data; analytics behind initiatives associated with a 5% increase in recognized revenue; Power BI dashboards that cut report delivery time by 20%.
-* **Enterprise Epic Reporting (2023):** Technical leader for reporting in an Epic environment serving 20,000+ users.
+* **Enterprise Epic Reporting (2023-2024):** Technical leader for reporting in an Epic environment serving 20,000+ users.
 * **Clinical Research Operations (2020–2023):** Led up to 6 direct reports and set team standards for data quality across 30+ concurrent studies, with zero major findings across 100 audits.
 
 ## Healthcare Intelligence Platform (Synthetic Data)
 
 An end-to-end platform built on synthetic data, from raw clinical, operational, and claims events through a dbt-tested BigQuery warehouse to leakage-aware models and a Power BI hub. No patient or employer data is used. [View the repository](https://github.com/benrietti/Healthcare-Intelligence-Platform).
 
-## Healthcare Analytic Projects (Synthetic Data)
+## Healthcare Machine Learning Projects
 
 * [Stroke Risk Classification](https://github.com/benrietti/9_Classification_Model): nine classifiers compared on a public dataset of 5,110 patients
 * [Breast Mass Classification](https://github.com/benrietti/Classification_Comparison): models compared on FNA pathology features
