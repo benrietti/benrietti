@@ -7,7 +7,7 @@ I am a Healthcare data and analytics leader with nearly a decade at a national h
 * **Enterprise Epic Reporting (2023):** Technical leader for reporting in an Epic environment serving 20,000+ users.
 * **Clinical Research Operations (2020–2023):** Led up to 6 direct reports and set team standards for data quality across 30+ concurrent studies, with zero major findings across 100 audits.
 
-## Healthcare Intelligence Platform (synthetic data)
+## Healthcare Intelligence Platform 
 
 An end-to-end platform built on synthetic data, from raw clinical, operational, and claims events through a dbt-tested BigQuery warehouse to leakage-aware models and a Power BI hub. No patient or employer data is used. [View the repository](https://github.com/benrietti/Healthcare-Intelligence-Platform).
 
