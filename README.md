@@ -11,7 +11,7 @@ I am a Healthcare data and analytics leader with nearly a decade at a national h
 
 An end-to-end platform built on synthetic data, from raw clinical, operational, and claims events through a dbt-tested BigQuery warehouse to leakage-aware models and a Power BI hub. No patient or employer data is used. [View the repository](https://github.com/benrietti/Healthcare-Intelligence-Platform).
 
-## Healthcare Analytic Projects (synthetic data)
+## Healthcare Analytic Projects 
 
 * [Stroke Risk Classification](https://github.com/benrietti/9_Classification_Model): nine classifiers compared on a public dataset of 5,110 patients
 * [Breast Mass Classification](https://github.com/benrietti/Classification_Comparison): models compared on FNA pathology features
