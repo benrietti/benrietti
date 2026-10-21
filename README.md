@@ -27,7 +27,7 @@ An end-to-end platform built on synthetic data, from raw clinical, operational, 
 
 ## Credentials
 
-### Epic Certifications (6)
+### Epic Certifications 
 * Cogito Fundamentals
 * Clarity Data Model Fundamentals
 * Caboodle Data Model Fundamentals
