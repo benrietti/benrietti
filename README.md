@@ -1,4 +1,4 @@
-I am a Healthcare data and analytics leader with nearly a decade at a national health system, partnering with quality, medical, revenue, and finance leaders. I have roots in clinical research, revenue/finance, and operations. I love turning clinical, financial, and operational healthcare data into trusted data products that improve patient care and outcomes.
+I am a healthcare data and analytics leader with nearly a decade of experience at a national health system, partnering with quality, medical, revenue, and finance leaders. With roots in clinical research, finance, and operations, I bring a broad understanding of healthcare to my work. I love turning complex clinical, financial, and operational data into trusted data products that support better decisions, improve patient care, and strengthen outcomes.
 
 ## Enterprise Work (CommonSpirit Health)
 
